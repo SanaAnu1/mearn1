@@ -1,0 +1,57 @@
+@import url('https://fonts.googleapis.com/css2?family=Anton&family=Satisfy&display=swap');
+h1{
+    font-family: 'Satisfy', cursive;
+    text-align: center;
+    color: rgb(249, 248, 244);
+}
+.c0{
+   height: 200px;
+   width: 100%;
+   background-image:url(./library.jpg );
+   background-size: cover;
+   border: 2px solid;
+   font-family: 'Satisfy', cursive;
+    text-align: center;
+    color: rgb(249, 248, 244);
+    font-size: large;
+}
+#a{
+    margin-top: 40px;
+}
+.a{
+    background-color: k;
+    height: 200px;
+    width:15%;
+    float: left;
+    border: solid white 6px;
+    margin-top:10px ;
+    text-align: center;
+    color: rgb(2, 2, 29);
+}
+.a1{
+    margin-left:20px ;
+}
+img{
+    
+    height: 200px;
+    width:85%;
+}
+.t{
+    font-size: smaller;
+    color: rgb(62, 123, 245);
+}
+.y{
+    display: -webkit-box;
+    -webkit-box-orient: vertical;
+    -webkit-line-clamp: 2;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+.y:hover{
+    overflow: visible;
+}
+.j{
+    color: white;
+    background-color: rgb(70, 3, 3);
+    border-radius: 6px;
+}
