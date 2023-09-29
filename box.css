@@ -1,0 +1,15 @@
+div{
+    background-color: black;
+    height: 200px;
+    width: 300px;
+    color:peru;
+    margin-left: 581px;
+    margin-top: 212px;
+    padding: 20px;
+    padding-left: 30px;
+    padding-top: 50px;
+    font-size: large;
+    border: double 10px brown;
+    text-align: center;
+    border-radius: 20px;
+}
